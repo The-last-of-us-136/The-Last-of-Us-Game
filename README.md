@@ -8,7 +8,7 @@ his turn trying to collect vaccines, and cure or kill zombies. The game ends whe
 has collected and used all vaccines or when all heroes have been overwhelmed and defeated by
 the zombies.
 
-The player only wins if he has successfully collected and used all vaccines and has 5 or more
+The player only wins if he has successfully collected and used all vaccines, and has 5 or more
 heroes alive.
 
 Each hero has a specified amount of health, attack damage,special trait and limited moves each turn, so choose wisely. Collect vaccines to cure a zombie unlocking another other controlable heroes. Collect supplies to use the hero's special trait. When multiple targets ar nearby, use the select target list to set your target. Beware of entering trap cells that cause damage to the hero.
